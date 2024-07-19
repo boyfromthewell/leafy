@@ -6,7 +6,7 @@
         >님!
       </p>
       <p class="description">
-        오늘도 즐거운 식물 관리하세요. 바꾼거 바꾼거 바꾼거
+        오늘도 즐거운 식물 관리하세요. 바꾼거 바꾼거 바꾼거 ㄹㅇ
       </p>
     </div>
     <div class="brand" v-if="isLoggedIn">LEAFY</div>
